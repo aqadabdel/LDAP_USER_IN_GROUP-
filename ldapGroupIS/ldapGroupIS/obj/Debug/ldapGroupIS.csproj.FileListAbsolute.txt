@@ -1,0 +1,7 @@
+C:\Users\C0D3R\source\repos\ldapGroupIS\ldapGroupIS\bin\Debug\ldapGroupIS.exe.config
+C:\Users\C0D3R\source\repos\ldapGroupIS\ldapGroupIS\bin\Debug\ldapGroupIS.exe
+C:\Users\C0D3R\source\repos\ldapGroupIS\ldapGroupIS\bin\Debug\ldapGroupIS.pdb
+C:\Users\C0D3R\source\repos\ldapGroupIS\ldapGroupIS\obj\Debug\ldapGroupIS.csprojAssemblyReference.cache
+C:\Users\C0D3R\source\repos\ldapGroupIS\ldapGroupIS\obj\Debug\ldapGroupIS.csproj.CoreCompileInputs.cache
+C:\Users\C0D3R\source\repos\ldapGroupIS\ldapGroupIS\obj\Debug\ldapGroupIS.exe
+C:\Users\C0D3R\source\repos\ldapGroupIS\ldapGroupIS\obj\Debug\ldapGroupIS.pdb
